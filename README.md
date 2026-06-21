@@ -1,2 +1,2 @@
 # Ekta-Portfolio
-Professional EMI Calculator built with HTML, CSS &amp; JavaScript. Features real-time EMI calculation, total interest and repayment analysis, yearly loan breakdown, responsive UI, and Indian currency formatting. Deployed on Vercel.
+Personal portfolio website showcasing my projects, technical skills, and web development work, including a responsive EMI Calculator built with HTML, CSS, and JavaScript.
